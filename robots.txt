@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://board-game-nights.howlane.com/sitemap.xml
